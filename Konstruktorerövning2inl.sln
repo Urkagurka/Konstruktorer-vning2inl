@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konstruktorerövning2inl", "Konstruktorerövning2inl\Konstruktorerövning2inl.csproj", "{ECB46C61-1FEA-4015-85BD-C40C2ACDFCEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB46C61-1FEA-4015-85BD-C40C2ACDFCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB46C61-1FEA-4015-85BD-C40C2ACDFCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB46C61-1FEA-4015-85BD-C40C2ACDFCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB46C61-1FEA-4015-85BD-C40C2ACDFCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1830D64-BCF9-47BF-AA01-A07172968BD3}
+	EndGlobalSection
+EndGlobal
